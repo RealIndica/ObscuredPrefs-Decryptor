@@ -1,0 +1,13 @@
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\bin\Release\ObscuredPrefs Decryptor.exe.config
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\bin\Release\ObscuredPrefs Decryptor.exe
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\bin\Release\ObscuredPrefs Decryptor.pdb
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\bin\Release\dnlib.dll
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\bin\Release\ObscuredPrefs.dll
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.csprojAssemblyReference.cache
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs_Decryptor.Form1.resources
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs_Decryptor.Properties.Resources.resources
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.csproj.GenerateResource.cache
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.csproj.CoreCompileInputs.cache
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.csproj.CopyComplete
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.exe
+C:\Users\Leonl\source\repos\ObscuredPrefs Decryptor\ObscuredPrefs Decryptor\obj\Release\ObscuredPrefs Decryptor.pdb
